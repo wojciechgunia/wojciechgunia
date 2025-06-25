@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Student at Poznan University of Technology.<br>🖥 Proficient in Java, C++, Python, HTML, CSS, and JavaScript.<br>👨‍💻 Currently gaining experience in Angular and Java Spring.<br>🎯 Strong focus on delivering high-quality code and scalable solutions.<br>📖 Passionate about personal development</p>
+<p align="left">📚 Student at Poznan University of Technology.<br>🖥 Proficient in Java, C++, Python, HTML, CSS, JavaScript, Angular and Java Spring.<br>👨‍💻 Currently gaining experience in Vue and Kotlin.<br>🎯 Strong focus on delivering high-quality code and scalable solutions.<br>📖 Passionate about personal development</p>
 
 ###
 
